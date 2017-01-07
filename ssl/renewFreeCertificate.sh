@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# This scripts allow to automatically renew the free SSL certificate from Let's Encrypt.
+# This script allow to automatically renew the free SSL certificate from Let's Encrypt (with a cron job)
 # Please see this article for more information : 
 
 ACME_DIR=/volume1/etc/cert/acme-tiny
