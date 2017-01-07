@@ -4,10 +4,10 @@
 # Please see this article for more information : http://thorpora.fr/synology-certificat-valide-avec-lets-encrypt/
 
 ACME_DIR=/volume1/etc/cert/acme-tiny
-CERT_DIR=/volume1/etc/cert
+CERT_DIR=YOUR_CERT_DIRECTORY
 WEB_ROOT_DIR=/volume1/web
-SENDER=root@thorpora.fr
-DEST=yannick.lacaute@gmail.com
+SENDER=root@YOUR_DOMAIN
+DEST=YOUR_EMAIL
 
 
 
