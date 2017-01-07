@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # This script allow to automatically renew the free SSL certificate from Let's Encrypt (with a cron job)
-# Please see this article for more information : 
+# Please see this article for more information : http://thorpora.fr/synology-certificat-valide-avec-lets-encrypt/
 
 ACME_DIR=/volume1/etc/cert/acme-tiny
 CERT_DIR=/volume1/etc/cert
