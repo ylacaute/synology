@@ -67,6 +67,7 @@ function renewCertificate {
 
   nginx -s reload
   
+  sendSuccessEmail
 }
 
 
