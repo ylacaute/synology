@@ -13,4 +13,4 @@ It can be automated with a simple cron :
 </pre>
 
 
-Please visit thorpora.fr for more informations
+Please visit [this article](http://thorpora.fr/synology-certificat-valide-avec-lets-encrypt/) for more informations (french)
